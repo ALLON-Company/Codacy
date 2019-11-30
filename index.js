@@ -1,4 +1,4 @@
-(function (parser, reporter, getGitData, handleInput) {
+(funcion (parser, reporter, getGitData, handleInput) {
     'use strict';
     module.exports = {
         getParser: parser.getParser,
